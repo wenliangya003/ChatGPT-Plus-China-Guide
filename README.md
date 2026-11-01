@@ -1,6 +1,6 @@
 # 🚀 2026 ChatGPT Plus 国内开通指南｜人民币支付 · 无需外币卡 · 快速升级
 
-📅 **更新于：2026-10-06**　✅ **持续更新**　🔐 **自己的 ChatGPT 账号**
+📅 **更新于：2026-11-01**　✅ **持续更新**　🔐 **自己的 ChatGPT 账号**
 
 > 想升级 ChatGPT Plus，却一直卡在 **海外银行卡、Card Declined、虚拟卡、Apple ID**？
 >
@@ -180,7 +180,7 @@ ChatGPT Plus
 
 <p align="center">
   <a href="https://pay.ldxp.cn/shop/VR2QADTP">
-    <img src="public/store-overview.png" alt="AI服务店铺" width="860">
+    <strong>👉 查看 AI 服务店铺</strong>
   </a>
 </p>
 
@@ -293,7 +293,7 @@ Codex 是目前 ChatGPT Plus 中非常值得体验的一部分。
 
 ### Q1：ChatGPT Plus 官方多少钱？
 
-目前 ChatGPT Plus 官方标准价格为 **20 美元/月**。
+目前 ChatGPT Plus 官方标准价格为 **20 美元/月**，见 [OpenAI 官方套餐价格](https://learn.chatgpt.com/docs/pricing)。
 
 实际付款金额可能受到地区、税费以及订阅平台等因素影响。
 
@@ -347,9 +347,9 @@ Codex 是目前 ChatGPT Plus 中非常值得体验的一部分。
 
 **不包含。**
 
-ChatGPT 订阅和 OpenAI API 属于独立的产品及计费体系。
+ChatGPT Plus 订阅和 OpenAI API 属于独立的产品及计费体系。
 
-开通 ChatGPT Plus 不等于获得 API 余额。
+开通 ChatGPT Plus 不等于获得 API 余额。使用 API Key 的调用按 API 价格计费，见 [OpenAI 官方登录与计费说明](https://learn.chatgpt.com/docs/auth)。
 
 ---
 
@@ -357,7 +357,7 @@ ChatGPT 订阅和 OpenAI API 属于独立的产品及计费体系。
 
 **目前包含。**
 
-Codex 已包含在 ChatGPT Plus 等套餐中，但不同套餐对应的使用额度可能不同。
+Codex 已包含在 ChatGPT Plus 等套餐中，但不同套餐对应的使用额度可能不同，见 [OpenAI 官方 Codex 套餐与额度说明](https://learn.chatgpt.com/docs/pricing)。
 
 如果你经常进行编程、项目修改或 Agent Coding，Plus 会比单纯聊天更值得使用。
 
