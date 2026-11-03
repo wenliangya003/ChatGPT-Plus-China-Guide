@@ -86,4 +86,4 @@ ChatGPT Work 与 Codex 共用用量。达到限额时，先查看用量与重置
 | 被要求输入 API Key | 想使用套餐额度时，选择 Sign in with ChatGPT；API Key 是另一种计费方式，见[官方登录说明](https://learn.chatgpt.com/docs/auth) |
 | 提示达到用量上限 | 查看账号用量与重置时间；Codex CLI 会话可用 `/status` 查看当前状态，见[官方额度说明](https://learn.chatgpt.com/docs/pricing) |
 
-[开通方式与付款问题排查](plus-subscription-guide.md) · [返回 ChatGPT Plus 开通指南](../README.md)
+[开通方式与付款问题排查](plus-subscription-guide.md) · [返回会员代充首页](../README.md)
