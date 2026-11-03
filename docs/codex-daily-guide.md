@@ -1,6 +1,6 @@
 # Codex 日常使用指南
 
-更新于：2026-11-01
+更新于：2026-11-03
 
 用 Codex 阅读项目、修复问题、补充测试或整理文档，可以从下面这套流程开始。
 
@@ -9,6 +9,8 @@
 在桌面客户端打开项目文件夹，或在已有项目中使用 Codex CLI、IDE 扩展。安装和入口说明见 [OpenAI 官方快速开始](https://learn.chatgpt.com/docs/quickstart)。
 
 使用 ChatGPT 登录可使用套餐内的 Codex 权益；Plus 已包含 Codex。套餐与额度见 [OpenAI 官方价格说明](https://learn.chatgpt.com/docs/pricing)，登录方式见 [官方登录说明](https://learn.chatgpt.com/docs/auth)。
+
+先确认登录的是持有订阅的 ChatGPT 账号。API Key 登录按 API 价格单独计费，不会自动使用 Plus 额度。
 
 ## 2. 先理解项目
 
@@ -72,6 +74,16 @@
 
 Codex 的用量会受到模型、任务复杂度和上下文大小影响。当前额度与重置时间以账号的用量页面为准，见 [官方额度说明](https://learn.chatgpt.com/docs/pricing)。
 
+ChatGPT Work 与 Codex 共用用量。达到限额时，先查看用量与重置时间，再决定是否等待或购买额外额度。
+
 继续下一项任务时，说明新的目标、相关文件和验收条件。需要重复处理的项目约定，可以整理进项目的 `AGENTS.md`；具体用法见 [OpenAI 官方项目指令说明](https://learn.chatgpt.com/docs/agent-configuration/agents-md)。
 
-[返回 ChatGPT Plus 开通指南](../README.md)
+## 6. 登录与额度问题速查
+
+| 遇到的问题 | 先核对什么 |
+| --- | --- |
+| 买了 Plus，但 Codex 未显示对应权益 | 查看当前账号和登录方式，确认与购买订阅的 ChatGPT 账号一致；再核对[订阅归属](https://help.openai.com/en/articles/20001056-troubleshooting-chatgpt-subscription-access-and-account-changes) |
+| 被要求输入 API Key | 想使用套餐额度时，选择 Sign in with ChatGPT；API Key 是另一种计费方式，见[官方登录说明](https://learn.chatgpt.com/docs/auth) |
+| 提示达到用量上限 | 查看账号用量与重置时间；Codex CLI 会话可用 `/status` 查看当前状态，见[官方额度说明](https://learn.chatgpt.com/docs/pricing) |
+
+[开通方式与付款问题排查](plus-subscription-guide.md) · [返回 ChatGPT Plus 开通指南](../README.md)

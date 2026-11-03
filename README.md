@@ -1,25 +1,25 @@
 # ChatGPT Plus 国内开通指南
 
-本页介绍第三方人民币支付与 iOS 订阅开通方案，具体以商品说明为准。
+比较官网订阅、iOS 内购与第三方人民币支付，按自己的设备和付款条件选择。
 
 [查看当前方案、价格与库存](https://pay.ldxp.cn/shop/VR2QADTP)
 
-## 开通流程
+## 先选入口
 
-1. 选择 ChatGPT Plus 商品，确认当前价格、库存、服务周期、开通方式、是否开通到自己的账号、是否支持已有会员，以及售后规则。
-2. 确认商品说明后再用人民币下单。付款后在订单页查看教程，按最新指引完成订阅；具体交付条件和操作以所购商品说明为准。
-3. 完成后重新打开 ChatGPT，在账号套餐或 Billing 页面检查 Plus 状态。保留订单记录，开通有问题可按商品售后说明联系处理。
+- 想了解开通方式：[方式对比与详细步骤](docs/plus-subscription-guide.md)。
+- 已付款但会员未生效：[付款与会员问题排查](docs/plus-subscription-guide.md#付款与会员问题排查)。
+- 订阅后想用 Codex：[Codex 日常使用指南](docs/codex-daily-guide.md)。
 
-商品价格、库存、服务周期和开通方式可能调整，请以下单时的实时商品页面为准。
+## 开通前后
 
-## 常见问题
+1. 先核对[服务支持地区](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries)。中国大陆目前不在名单内，付款方式不会改变地区限制。
+2. 下单前确认价格、库存、服务周期、开通方式、是否开通到本人账号、是否支持已有会员及售后规则。
+3. 付款后按订单页最新教程操作；完成后回到原 ChatGPT 账号检查套餐状态，并保存订单记录。
 
-**官方价格与店铺价格一样吗？** ChatGPT Plus 官方标准价格为 **20 美元/月**，实际付款金额可能受地区、税费和订阅平台影响，见 [官方套餐说明](https://learn.chatgpt.com/docs/pricing)。第三方方案的价格与服务内容以商品页为准。
+## 价格与权益
 
-**已经有 Plus 还能买吗？** 取决于当前商品规则。已有订阅可能涉及续费时间、订阅渠道和重复订阅，付款前应确认是否支持自己的账号状态，并阅读对应的服务周期和续费说明。
+Plus 官方标准价为 **20 美元/月**，税费、币种与平台价格以结账页为准；第三方报价和交付以下单时商品说明为准。见[官方 Plus 说明](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)。
 
-**Plus 包含 API 和 Codex 吗？** Plus 不包含 OpenAI API 余额，API Key 调用按 API 价格计费，见 [官方计费说明](https://learn.chatgpt.com/docs/auth)。Plus 包含 Codex，不同套餐的使用额度可能不同，以官方套餐说明和账号实际显示为准。
-
-[Codex 日常使用指南](docs/codex-daily-guide.md)
+Plus 含 Codex，额度以账号显示为准；OpenAI API 另行计费。见[Codex 套餐说明](https://learn.chatgpt.com/docs/pricing)与[API 计费说明](https://help.openai.com/en/articles/9039756-managing-billing-for-chatgpt-and-the-api-platform)。
 
 本文及所链接店铺均属于第三方服务，与 OpenAI 不存在官方代理、授权、合作或背书关系。
